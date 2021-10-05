@@ -1,0 +1,5 @@
+print("welcome to the band name janarator")
+print("hello" + input("please enter your name: \n"))
+city = input (" where did you grew up?\n")
+pet = input ("please enter your pet name:\n")
+print ("your band name could be:"+city +" "+ pet)
